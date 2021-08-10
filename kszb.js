@@ -1,3 +1,4 @@
+//快手看直播任务
 var ks = {};
 
 ks.zb = function kszb(){
