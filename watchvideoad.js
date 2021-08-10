@@ -1,3 +1,4 @@
+//oppo视频广告
 var watchad = {};
 
 watchad.video = function watchvideoad(){
