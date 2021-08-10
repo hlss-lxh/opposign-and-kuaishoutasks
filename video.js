@@ -1,4 +1,4 @@
-//刷系统视频
+//刷oppo系统视频
 var video = {};
 
 video.yoli = function video(){
